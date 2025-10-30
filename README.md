@@ -1,4 +1,4 @@
-# LinkedIn Clone — Monorepo
+# LinkedIn Clone 
 
 This repository contains a small LinkedIn-like application split into two parts:
 
